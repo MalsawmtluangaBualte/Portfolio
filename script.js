@@ -7,10 +7,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "Max()",
         "Code",
         "Error 404",
-        "Stack Overflow",
+        "Stack Overflow!!!",
         "int a[10]",
         "Android",
-        "iOS"
+        "iOS",
+        "Syntax Error! Line 21",
+        "14.th",
+        "./August.txt",
+        "21st",
+        "February"
     ];
 
     function createCodeLine() {
