@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
     const codeBackground = document.getElementById("code-background");
     const codeLines = [
-        "function helloWorld() { console.log('Hello, World!'); }",
-        "let x = 10; while(x > 0) { x--; }",
-        "const array = [1, 2, 3, 4, 5]; array.forEach(num => console.log(num));",
-        "if (true) { console.log('This is true!'); }",
-        "const sum = (a, b) => a + b;",
-        "try { throw new Error('Oops!'); } catch (e) { console.error(e); }"
+        "You Can do it",
+        "00101101",
+        "Java",
+        "Max()",
+        "Code",
+        "Error 404"
     ];
 
     function createCodeLine() {
