@@ -1,12 +1,16 @@
 document.addEventListener("DOMContentLoaded", () => {
     const codeBackground = document.getElementById("code-background");
     const codeLines = [
-        "You Can do it",
+        "echo 'Hello World!!'",
         "00101101",
         "Java",
         "Max()",
         "Code",
-        "Error 404"
+        "Error 404",
+        "Stack Overflow",
+        "int a[10]",
+        "Android",
+        "iOS"
     ];
 
     function createCodeLine() {
