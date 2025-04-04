@@ -14,8 +14,10 @@ document.addEventListener("DOMContentLoaded", () => {
         "Syntax Error! Line 21",
         "14.th",
         "./August.txt",
-        "21st",
-        "February"
+        "Flutter",
+        "Dart",
+        "Dev",
+        "Code"
     ];
 
     function createCodeLine() {
